@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body {
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.8em;
+    font-family: 'Raleway', sans-serif;
+  }
+  
+  article {
+    padding:0 1em;
+  }
+  
+  section{
+    margin: 1em;
+    padding: 1em;
+  }
+  
+  header, main, footer {
+    margin: 0 auto;
+  }
+  
+  header {
+    padding: 2em;
+    text-align: center;
+    background-image: url('jessy-smith-zFOm6KzA-7g-unsplash.jpg'); /*Photo by Jessy Smith on Unsplash*/
+    background-size: cover;
+    background-position: center;
+    color: white;
+  }
+
+  header section {
+    margin: 0 auto;
+    max-width: 640px;
+  }
+  
+  header img {
+    max-width: 125px;
+    border-radius: 50%;
+  }
+
+  .photo {
+    margin-top: 3em; }
+  
+  h1 {
+    margin: 0.1em 0;
+    text-transform: uppercase;
+  }
+
+header section {
+    margin-bottom: 2.3em;
+  }
+  main {
+    max-width: 1140px;
+  }
+  
+  .school span {
+    color: gray;
+  }
+  
+  footer {
+    background-color: rgb(128, 127, 125);
+    text-align: right;
+    padding: 0.5em;
+  }
