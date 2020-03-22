@@ -19,14 +19,15 @@ header, main, footer {
 header {
   padding: 2em;
   text-align: center;
-  background-image: url('jessy-smith-zFOm6KzA-7g-unsplash.jpg'); /*Photo by Jessy Smith on Unsplash*/
+  background-image: url('plush-design-studio-PWxsExxrf5g-unsplash.jpg'); /*Photo by Plush Design Studio on Unsplash*/
   background-size: cover;
   background-position: center;
-  color: white; }
+  color: grey; }
 
 header section {
   margin: 0 auto;
-  max-width: 640px; }
+  max-width: 640px;
+  margin-bottom: 2.3em; }
 
 header img {
   max-width: 125px;
@@ -39,21 +40,29 @@ h1 {
   margin: 0.1em 0;
   text-transform: uppercase; }
 
-header section {
-  margin-bottom: 2.3em; }
+.fab {
+  border: 1px solid rgb(128, 127, 125);
+  border-radius: 50%;
+  font-size: 1.5em;
+  width: 1.5em;
+  height: 1.5em;
+  line-height: 1.5em;
+  margin: 5px;
+  text-align: center; }
 
-main {
-  max-width: 1140px; }
+a .fab { color: rgb(128, 127, 125); }
+
+main { max-width: 1140px; }
 
 h2 {
   font-weight: bold;
   text-transform: uppercase; }
 
 .school span {
-  color: gray; }
+  color: rosybrown; }
 
 h3 {
-  color: gray; }
+  color: rosybrown; }
 
 .skills {
   display: -ms-flexbox;
