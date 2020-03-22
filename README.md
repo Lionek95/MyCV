@@ -14,4 +14,4 @@ Technologies used in this project:
 
 Check Demo here: (not finished yet).
 
-# This project was inspired by work of flynerd.pl
+# This project was inspired by work of https://www.flynerd.pl
