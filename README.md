@@ -12,6 +12,6 @@ Technologies used in this project:
 
 # Demo
 
-Check Demo here: (not finished yet).
+Check Demo here: (https://lionek95.github.io/MyCV/).
 
 # This project was inspired by work of https://www.flynerd.pl
