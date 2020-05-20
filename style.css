@@ -75,6 +75,30 @@ h3 {
   flex: 0 0 50%;
   max-width: 50%; }
 
+.weselne-dzwonki {
+  padding: 1.5em;
+  position: center;
+  color: rosybrown;
+  text-align: center; }
+
+.media-wiki {
+  padding: 1.5em;
+  position: center;
+  color: rosybrown;
+  text-align: center; }
+
+.lotto-machine {
+  padding: 1.5em;
+  position: center;
+  color: rosybrown;
+  text-align: center; }
+
+.my-cv {
+  padding: 1.5em;
+  position: center;
+  color: rosybrown;
+  text-align: center; }
+
 footer {
   background-color: rgb(128, 127, 125);
   text-align: right;
