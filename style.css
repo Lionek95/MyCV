@@ -52,7 +52,8 @@ h1 {
 
 a .fab { color: rgb(128, 127, 125); }
 
-main { max-width: 1140px; }
+main { 
+  max-width: 1140px; }
 
 h2 {
   font-weight: bold;
@@ -75,28 +76,11 @@ h3 {
   flex: 0 0 50%;
   max-width: 50%; }
 
-.weselne-dzwonki {
+.weselne-dzwonki, .media-wiki, .lotto-machine, .my-cv {
   padding: 1.5em;
   position: center;
   color: rosybrown;
-  text-align: center; }
-
-.media-wiki {
-  padding: 1.5em;
-  position: center;
-  color: rosybrown;
-  text-align: center; }
-
-.lotto-machine {
-  padding: 1.5em;
-  position: center;
-  color: rosybrown;
-  text-align: center; }
-
-.my-cv {
-  padding: 1.5em;
-  position: center;
-  color: rosybrown;
+  font-weight: bold;
   text-align: center; }
 
 footer {
