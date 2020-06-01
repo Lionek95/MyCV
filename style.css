@@ -103,5 +103,6 @@ a:hover {
 @media only screen and (max-width: 576px) {
   .skills { display: block; }
   .skills .column { max-width: 100%; }
+  img { max-width: 400px; position: center; }
   footer { text-align: center; }
 }
