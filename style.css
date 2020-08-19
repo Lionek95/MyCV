@@ -76,11 +76,10 @@ h3 {
   flex: 0 0 50%;
   max-width: 50%; }
 
-.weselne-dzwonki, .media-wiki, .lotto-machine, .my-cv {
+.shantala, .weselne-dzwonki, .c-k, .media-wiki, .lotto-machine, .my-cv {
   padding: 1.5em;
   position: center;
   color: rosybrown;
-  font-weight: bold;
   text-align: center; }
 
 footer {
@@ -103,13 +102,13 @@ a:hover {
 @media only screen and (max-width: 576px) {
   .skills { display: block; }
   .skills .column { max-width: 100%; }
-  img { max-width: 400px; margin: 0 auto; }
+  img { max-width: 400px; margin: 0 auto; text-align: center;}
   footer { text-align: center; }
 }
 
 @media only screen and (max-width: 375px) {
   .skills { display: block; }
   .skills .column { max-width: 100%; }
-  img { max-width: 250px; margin: 0 auto; }
+  img { max-width: 250px; margin: 0 auto; text-align: center;}
   footer { text-align: center; }
 }
